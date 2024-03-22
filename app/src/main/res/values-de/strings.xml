@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Aufgaben für Tag 5</string>
+    <string name="masukkan_nama">Name eingeben</string>
+    <string name="tipe_pelanggan">Kundentyp</string>
+    <string name="gold">Gold</string>
+    <string name="silver">Silber</string>
+    <string name="biasa">Normal</string>
+    <string name="masukkan_kode">Code eingeben</string>
+    <string name="jumlah_barang">Die Menge der Waren</string>
+    <string name="proses">Verfahren</string>
+    <string name="selamat_datang">Willkommen</string>
+    <string name="transaksi_hari_ini">Heutige Transaktionen:</string>
+    <string name="tipe_Pelanggan">Kundentyp</string>
+    <string name="kode_barang">Produktcode</string>
+    <string name="nama_barang">Artikelbezeichnung</string>
+    <string name="harga_barang">Preis der Ware</string>
+    <string name="diskon">Rabatt</string>
+    <string name="total_harga">Gesamtpreis</string>
+    <string name="terima_kasih">Danke schön!</string>
+    <string name="share">Aktie</string>
+    <string name="change_language">Sprache ändern</string>
+</resources>

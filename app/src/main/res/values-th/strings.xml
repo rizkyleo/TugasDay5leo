@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">งานวันที่ 5</string>
+    <string name="masukkan_nama">ใส่ชื่อ</string>
+    <string name="tipe_pelanggan">ประเภทลูกค้า</string>
+    <string name="gold">ทอง</string>
+    <string name="silver">เงิน</string>
+    <string name="biasa">ปกติ</string>
+    <string name="masukkan_kode">ใส่รหัส</string>
+    <string name="jumlah_barang">จำนวนสินค้า</string>
+    <string name="proses">กระบวนการ</string>
+    <string name="selamat_datang">ยินดีต้อนรับ</string>
+    <string name="transaksi_hari_ini">ธุรกรรมของวันนี้:</string>
+    <string name="tipe_Pelanggan">ประเภทลูกค้า</string>
+    <string name="kode_barang">รหัสสินค้า</string>
+    <string name="nama_barang">ชื่อสินค้า</string>
+    <string name="harga_barang">ราคาสินค้า</string>
+    <string name="diskon">การลดราคา</string>
+    <string name="total_harga">ราคารวม</string>
+    <string name="terima_kasih">ขอบคุณ!</string>
+    <string name="share">แบ่งปัน</string>
+    <string name="change_language">เปลี่ยนภาษา</string>
+</resources>

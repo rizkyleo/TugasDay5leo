@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/ic_launcher_background" />
+    <foreground android:drawable="@drawable/ic_launcher_foreground" />
+    <monochrome android:drawable="@drawable/ic_launcher_foreground" />
+    <vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="96dp"
+        android:height="96dp"
+        android:viewportWidth="96"
+        android:viewportHeight="96">
+
+        <path
+            android:fillColor="#FF000000"
+            android:pathData="M48,16c13.25,0 24,10.75 24,24s-10.75,24 -24,24 -24,-10.75 -24,-24 10.75,-24 24,-24zM84,72c0,4.42 -3.58,8 -8,8H20c-4.42,0 -8,-3.58 -8,-8V24c0,-4.42 3.58,-8 8,-8h56c4.42,0 8,3.58 8,8v48zM69.06,59.12l-3.74,-3.74c2.69,-3.58 4.39,-8.01 4.91,-12.88 0.58,-5.64 -0.52,-11.42 -3.37,-16.41l3.46,-3.46c3.46,5.52 4.55,12.15 3.2,18.4 -0.9,4.36 -3.26,8.28 -6.46,11.09zM26.94,59.12c-3.2,-2.81 -5.56,-6.73 -6.46,-11.09 -1.35,-6.25 -0.26,-12.88 3.2,-18.4l3.46,3.46c-2.85,5.0 -3.95,10.77 -3.37,16.41 0.52,4.87 2.22,9.3 4.91,12.88l-3.74,3.74zM48,36c-4.42,0 -8,3.58 -8,8s3.58,8 8,8 8,-3.58 8,-8 -3.58,-8 -8,-8z" />
+    </vector>
+
+</adaptive-icon>
